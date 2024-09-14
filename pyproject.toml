@@ -1,0 +1,7 @@
+title = "Image Sorter"
+
+[owner]
+name = "Liz Lee"
+
+[tool.black]
+line_length = 83
